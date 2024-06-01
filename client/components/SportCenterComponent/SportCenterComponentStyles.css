@@ -1,0 +1,30 @@
+.spoiler {
+  margin-top: 20px;
+}
+
+.carousel-wrapper {
+  margin-top: 20px;
+}
+
+.component-wrapper {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.component-wrapper {
+  overflow-y: scroll;
+  height: calc(100vh - 10rem);
+}
+
+.component-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.component-wrapper {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

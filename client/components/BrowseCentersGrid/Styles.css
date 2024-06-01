@@ -1,0 +1,33 @@
+.grid-wrapper {
+  /* margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; */
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.grid-wrapper {
+  overflow-y: scroll;
+  height: calc(100vh - 10rem);
+}
+
+.grid-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.grid-wrapper {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.grid-header {
+  margin-left: 18px;
+  margin-right: 25px;
+  display: flex;
+  justify-content: space-between;
+}

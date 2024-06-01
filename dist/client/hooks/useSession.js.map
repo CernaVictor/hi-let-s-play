@@ -1,0 +1,1 @@
+{"version":3,"file":"useSession.js","sourceRoot":"","sources":["../../../client/hooks/useSession.ts"],"names":[],"mappings":";;;AACA,2CAGyB;AAElB,MAAM,UAAU,GAAG,CAAC,cAA2C,EAAE,EAAE;IACxE,MAAM,EAAE,IAAI,EAAE,MAAM,EAAE,GAAG,IAAA,kBAAkB,EAAC,cAAc,CAAC,CAAC;IAE5D,MAAM,SAAS,GAEJ,IAAI,CAAC;IAEhB,OAAO;QACL,IAAI,EAAE,SAAS;QACf,MAAM;KACP,CAAC;AACJ,CAAC,CAAC;AAXW,QAAA,UAAU,cAWrB"}

@@ -1,0 +1,45 @@
+.profile-drawer-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-hero-wrapper {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-info-wrapper {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-info-column {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.change-password {
+  margin: auto;
+  margin-top: 50px;
+}
+
+.action-buttons-wrapper {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+}
+
+.edit-button {
+  margin-left: auto;
+  background-color: #dd722a;
+  color: #2c2c2c;
+}
+
+.close-button {
+  margin-left: 5px;
+}
